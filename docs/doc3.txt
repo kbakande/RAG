@@ -1,0 +1,1 @@
+Retrieval-augmented generation (RAG) combines retrieval and generation to answer questions.

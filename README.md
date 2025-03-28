@@ -1,14 +1,8 @@
----
-title: Rag Demo
-emoji: 🐨
-colorFrom: purple
-colorTo: blue
-sdk: gradio
-sdk_version: 5.23.1
-app_file: app.py
-pinned: false
-license: mit
-short_description: demo rag
----
+# Simple RAG Demo
 
-Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
+> Retrieval-Augmented Generation using FAISS, Sentence Transformers, and FLAN-T5, deployable on CPU.
+
+Ask questions like:
+- What is RAG?
+- What is machine learning?
+- What is Python good for?
