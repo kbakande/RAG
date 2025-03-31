@@ -1,1 +1,99 @@
-Retrieval-augmented generation (RAG) combines retrieval and generation to answer questions.
+Datatonic – Company Overview
+About Datatonic
+Datatonic is a leading cloud data and artificial intelligence (AI) consultancy, empowering businesses through advanced data-driven solutions. Founded in 2013, the company has expanded its presence globally, with offices in London, Stockholm, Nyon, Barcelona, and Montreal.
+
+Mission and Values
+Datatonic’s mission is to drive meaningful positive change using the power of data and AI. Its core values include:
+
+Make an Impact – Commitment to driving significant advancements for clients and the industry.
+
+Cultivate Excellence – Dedication to continuous learning, innovation, and development.
+
+Power of Us – Emphasis on diversity, equity, inclusion, and collaboration.
+
+Fearless Innovation – Encouraging curiosity and a mindset of challenging the status quo.
+
+Services and Solutions
+Datatonic offers a broad range of services designed to address complex business needs:
+
+Generative AI – Creation of AI agents and tools for retail, gaming, media, and creative industries.
+
+Cloud Data Migration – Helping companies transition from legacy systems to scalable, secure cloud infrastructure.
+
+Managed Services – Ongoing support and optimization of data systems for peak performance.
+
+Marketing Analytics – Leveraging data insights to refine strategies and boost customer engagement.
+
+Looker Implementation – Deploying Looker to provide real-time, actionable analytics.
+
+MLOps & LLMOps – Accelerating machine learning development and operational efficiency.
+
+Industry Focus
+Datatonic tailors its solutions across key industries:
+
+Retail – Enhancing customer experience and streamlining operations.
+
+Telecommunications – Improving network performance and customer satisfaction through analytics.
+
+Gaming – Designing immersive and personalized experiences using generative AI.
+
+Media – Powering smarter content discovery and audience engagement.
+
+Financial Services – Enabling advanced fraud detection and improved risk management.
+
+Notable Projects
+MuchBetter – Implemented real-time analytics to support personalized customer experiences and faster decision-making.
+
+Gopuff – Migrated data to Snowflake, significantly improving dashboard speed and centralizing data insights.
+
+Global Payments Provider – Built a fraud detection model with over 90% accuracy, detecting ~$100M in fraudulent activity annually.
+
+Awards and Recognition
+Google Cloud Partner of the Year – Nine-time winner, including four awards in 2024.
+
+ISO Certifications – Holds ISO 27001 (Information Security) and ISO 9001 (Quality Management).
+
+Leadership Team
+Datatonic’s leadership includes experts across technology, business, and people development:
+
+Louis Decuypere – Founder & CEO
+
+Andrew Harding – Chief Technology Officer
+
+David Langley – Chief Financial Officer
+
+David Kress – Chief Revenue Officer
+
+Amber Cella – Co-founder, Datatonic Academy
+
+Lennert Acke – Managing Director, Europe
+
+Andrew Powell – Managing Director, UKI
+
+Cyril Marques – Managing Director, AMER
+
+Lisa Luu – Global Director of Go-To-Market
+
+Rachel Wasser – Global People Director
+
+Diversity & Inclusion
+Datatonic is deeply committed to building an inclusive culture where diversity is celebrated. It believes the strength of its team lies in diverse perspectives and the authenticity of each employee.
+
+Sustainability: Greentonic Initiative
+Through its Greentonic initiative, Datatonic uses cloud, data analytics, and AI to help clients combat climate change and develop sustainability-focused solutions in the climate tech space.
+
+Datatonic Academy
+The Datatonic Academy is a professional training platform offering customized courses in:
+
+BI Development
+
+Machine Learning Engineering
+
+Data Engineering
+
+DevOps
+
+The academy empowers teams with hands-on, project-based learning tailored to organizational goals.
+
+Conclusion
+Datatonic continues to shape the future of data and AI consultancy through innovation, thought leadership, and impactful solutions. With a strong emphasis on excellence, inclusion, and sustainability, it remains a trusted partner for organizations looking to thrive in the age of AI.
