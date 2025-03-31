@@ -1,1 +1,42 @@
-Machine learning is a subset of AI that involves training models on data.
+Datatonic Academy
+Accelerate Your Google Cloud Skills
+As an authorised Google Cloud training partner, Datatonic Academy specialises in upskilling businesses and individuals through world-class training programs. We offer a wide range of courses—customised to your specific needs—with hands-on exercises and real-world use cases to help learners immediately apply their new skills.
+
+Our Training Services
+Team Upskilling: Instructor-led courses across all areas of data, AI, and ML, tailored to your team’s goals.
+
+Talent Sourcing & Training: Equip new talent with the practical skills they need to hit the ground running.
+
+Train-the-Trainer: Empower internal experts to deliver high-quality training within your organisation.
+
+How It Works: Tailored Training Journey
+Step 1: Discovery & Scoping
+We begin with a scoping workshop to assess your team’s current skill levels, their familiarity with Google Cloud, and the tools they use daily. We'll also explore preferences around delivery format (virtual or in-person), geographic locations, and conduct Skills Assessments to benchmark learning progress.
+
+Step 2: Program Customisation
+Our learning consultants design a training path that aligns with your business needs. We tailor curriculums to include relevant hands-on exercises, use cases, and industry-specific examples. Programs may blend instructor-led sessions with self-paced learning for maximum flexibility.
+
+Step 3: Delivery & Evaluation
+Training is delivered by our world-class instructors either virtually, at your location, or at our Datatonic Academy HQ in Canary Wharf, London. Throughout the program, we evaluate learner progress and conclude with a retrospective session to review outcomes, gather feedback, and plan next steps in your team's learning journey.
+
+Why Choose Datatonic Academy?
+Expert-Led, Impact-Driven
+As the dedicated training arm of the award-winning consultancy Datatonic, we bring unparalleled expertise in data, AI, and ML on Google Cloud. We're trusted by leading businesses looking to accelerate their cloud transformation.
+
+Immersive Learning Experience
+Our training blends theory with practice, offering hands-on labs, engaging lessons, and 1:1 instructor support. Whether delivered online or in person, learners are equipped with practical skills they can use immediately in their roles.
+
+Available Courses
+BI Development & Analytics
+
+Machine Learning Engineering
+
+Data Engineering
+
+DevOps Engineering
+
+Get Started Today
+Speak to our team to design a training experience that aligns with your goals and empowers your team for long-term success.
+
+📧 Contact Us
+
