@@ -18,7 +18,7 @@ Context:
 Question:
 {question}
 
-Answer:
+Response:
 """
         result = self.generator(prompt.strip(), max_new_tokens=150)
         return result[0]['generated_text']
