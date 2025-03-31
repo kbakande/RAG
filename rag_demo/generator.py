@@ -2,7 +2,7 @@ from transformers import pipeline
 
 class Generator:
     def __init__(self):
-        self.generator = pipeline("text2text-generation", model="google/flan-t5-base")
+        self.generator = pipeline("text2text-generation", model="google/flan-t5-large")
 
     def generate(self, context, question):
         prompt = f"""You are an expert AI assistant answering questions strictly based on the provided context. 
