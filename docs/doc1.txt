@@ -1,1 +1,96 @@
-Python is a versatile programming language known for its ease of use and readability.
+Overview
+Datatonic is a leading cloud data and artificial intelligence (AI) consultancy that empowers businesses to solve complex challenges through cutting-edge cloud technologies. Founded in 2013 and headquartered in London, United Kingdom, Datatonic has expanded its presence across Europe and North America. The company specializes in leveraging data and AI to drive business impact for ambitious organizations worldwide.
+
+Mission and Values
+Datatonic is committed to:
+
+Fearless Innovation: Encouraging curiosity and challenging the status quo to find new ways to work and contribute.
+
+Power of Us: Valuing diversity and fostering an inclusive environment where differences strengthen the team.
+
+Continuous Learning: Promoting a culture of ongoing development and knowledge sharing to stay at the forefront of data and AI advancements.
+
+Services
+Datatonic offers a range of services tailored to harness the power of data and AI:
+
+Generative AI: Developing AI agents and assistants for various applications, including retail, gaming, media search and discovery, and creative assistance.
+
+Cloud Data Migration: Assisting businesses in migrating their data infrastructure to the cloud for enhanced scalability and performance.
+
+Managed Services: Providing ongoing support and optimization for cloud data and AI solutions.
+
+Marketing Analytics: Leveraging data to drive targeted marketing strategies and improve customer engagement.
+
+Looker: Implementing and optimizing Looker for advanced business intelligence and data visualization.
+
+Industries Served
+Datatonic collaborates with leading companies across various industries:
+
+Retail: Enhancing customer experiences and optimizing operations through data-driven insights.
+
+Telecommunications: Improving network performance and customer satisfaction using AI solutions.
+
+Gaming: Creating immersive gaming experiences with generative AI technologies.
+
+Media: Revolutionizing content discovery and recommendation systems.
+
+Financial Services: Implementing fraud detection systems and enhancing financial analytics.
+
+Notable Projects
+Datatonic has a proven track record of delivering impactful projects:
+
+MuchBetter: Enabled real-time analytics at scale for the payments app, utilizing Google Cloud's Datastream to personalize customer experiences and enhance decision-making.
+
+Gopuff: Migrated data from Redshift to Snowflake, reducing dashboard load times from 30 minutes to seconds and creating a single source of truth for better decision-making.
+
+Global Payments Provider: Developed a real-time fraud detection model with over 90% accuracy, representing approximately $100 million in fraudulent transactions prevented per year.
+
+UK Energy Provider: Implemented Google Cloud's Data Loss Prevention service to securely unlock generative AI use cases while protecting personally identifiable information (PII).
+
+Leadership Team
+Louis Decuypere: Chief Executive Officer (CEO)
+
+Andrew Harding: Chief Technology Officer (CTO)
+
+David Langley: Chief Financial Officer (CFO)
+
+David Kress: Chief Revenue Officer (CRO)
+
+Amber Cella: Datatonic Academy Co-Founder
+
+Lennert Acke: Managing Director, Europe
+
+Andrew Powell: Managing Director, UKI
+
+Cyril Marques: Managing Director, AMER
+
+Lisa Luu: Global Director of Go-To-Market (GTM)
+
+Rachel Wasser: Global People Director
+
+Offices
+Datatonic maintains offices in several key locations:
+
+London, United Kingdom: Level 45, One Canada Square, London E14 5AB
+
+Stockholm, Sweden: Malmskillnadsgatan 36, 111 57 Stockholm
+
+Nyon, Switzerland: Route de Crassier 7, 1262 Eysins
+
+Barcelona, Spain: Pla de la Seu, s/n, 08002 Barcelona
+
+Montreal, Canada
+
+Partnerships and Recognitions
+Google Cloud Partnership: Datatonic is a nine-time Google Cloud Partner of the Year, specializing in unlocking the value of data for enterprise businesses across the UK and Europe.
+
+Looker and dbt Labs: Recognized as a go-to partner in EMEA for leading technologies, including Looker and dbt Labs.
+
+Datatonic Academy
+Datatonic offers customized training programs through the Datatonic Academy, designed to build foundational knowledge for junior hires and graduates, as well as advanced courses to upskill existing team members. Courses can be tailored to include hands-on work with live projects or case studies to maximize value.
+
+Commitment to Diversity and Inclusion
+Datatonic emphasizes the importance of diversity and inclusion, recognizing that the strength and success of the company lie in the unique perspectives, backgrounds, and experiences of its diverse team. The company is dedicated to cultivating an inclusive workplace where everyone feels valued and appreciated for their authentic selves.
+
+Greentonic Initiative
+Greentonic is Datatonic's initiative for sustainability and climate tech innovation. The company acknowledges that solutions to combat climate change are driven by large-scale technological innovation, which relies heavily on cloud, data analytics, and AI/ML.
