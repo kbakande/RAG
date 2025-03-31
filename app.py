@@ -3,19 +3,27 @@ from rag_demo.embedder import Embedder
 from rag_demo.retriever import Retriever
 from rag_demo.generator import Generator
 from rag_demo.interface import build_ui
+import numpy as np
 
-# Load and chunk documents
-docs = load_documents("docs", chunk_size=80, overlap=20)
 embedder = Embedder()
-embeddings = embedder.encode(docs)
 
-retriever = Retriever(embeddings)
-retriever.add_docs(docs)
+# Try to load precomputed index and docs
+if embedder.load_index():
+    index, docs = embedder.get_index_and_docs()
+    retriever = Retriever(np.array([]))  # dummy init
+    retriever.index = index
+    retriever.add_docs(docs)
+else:
+    docs = load_documents("docs", chunk_size=80, overlap=20)
+    embeddings = embedder.encode(docs)
+    embedder.save_index(embeddings, docs)
+    retriever = Retriever(embeddings)
+    retriever.add_docs(docs)
 
 generator = Generator()
 
 def rag_pipeline(question):
-    query_embedding = embedder.encode_query(question)
+    query_embedding = embedder.encode([question])
     context_chunks = retriever.retrieve(query_embedding)
     context = " ".join(context_chunks)
     return generator.generate(context, question)
