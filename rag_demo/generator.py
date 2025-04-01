@@ -2,18 +2,24 @@ from transformers import pipeline
 
 class Generator:
     def __init__(self):
-        self.generator = pipeline("text2text-generation", model="google/flan-t5-large")
+        self.generator = pipeline("text2text-generation", model="google/flan-t5-base")
+        self.max_context_chars = 1500  # truncate context to stay under token limit
 
     def generate(self, context, question):
-        prompt = f"""You are an expert AI assistant answering questions based on the provided context.
+        # Limit context length to avoid exceeding 512 token limit
+        context = context[:self.max_context_chars]
 
-        Context:
-        {context}
+        prompt = f"""
+You are an expert assistant answering questions using only the provided context.
 
-        Question:
-        {question}
+Context:
+{context}
 
-        Answer:"""
+Question:
+{question}
+
+Answer:
+""".strip()
 
         result = self.generator(prompt, max_new_tokens=150)
         return result[0]['generated_text']
