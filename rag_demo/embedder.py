@@ -28,17 +28,24 @@ class Embedder:
         return hash_md5.hexdigest()
 
     def save_index(self, embeddings, docs):
+        print("🔄 Saving new FAISS index and document cache...")
         dim = embeddings.shape[1]
         index = faiss.IndexFlatL2(dim)
         index.add(embeddings)
         faiss.write_index(index, self.index_path)
+        print(f"✅ FAISS index saved to {self.index_path}")
+
         with open(self.docs_path, "w") as f:
             json.dump(docs, f)
+        print(f"✅ Documents saved to {self.docs_path}")
+
         with open(self.hash_path, "w") as f:
             f.write(self.compute_docs_hash())
+        print(f"✅ Hash saved to {self.hash_path}")
 
     def load_index(self):
         if not (os.path.exists(self.index_path) and os.path.exists(self.docs_path) and os.path.exists(self.hash_path)):
+            print("⚠️ One or more index files not found — skipping cache load.")
             return False
 
         current_hash = self.compute_docs_hash()
@@ -46,8 +53,10 @@ class Embedder:
             saved_hash = f.read().strip()
 
         if current_hash != saved_hash:
+            print("⚠️ Document content has changed — skipping cache load.")
             return False
 
+        print("✅ Loading cached FAISS index and docs...")
         self.index = faiss.read_index(self.index_path)
         with open(self.docs_path, "r") as f:
             self.docs = json.load(f)
