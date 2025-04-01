@@ -35,9 +35,9 @@ Make sure you have internet to download Hugging Face models the first time.
 
 ## 🧪 Try Asking:
 
-- "What is RAG?"
-- "What is Python?"
-- "Tell me about machine learning."
+- "Tell me about Datatonic?"
+- "Who are the Datatonic officers?"
+- "Where are Datatonic offices?"
 
 ---
 
