@@ -11,6 +11,6 @@ class Retriever:
     def add_docs(self, docs):
         self.docs = docs
 
-    def retrieve(self, query_embedding, top_k=5):
+    def retrieve(self, query_embedding, top_k=2):
         distances, indices = self.index.search(query_embedding, top_k)
         return [self.docs[i] for i in indices[0]]
