@@ -1,9 +1,11 @@
 import logging
-import gradio as gr
 from typing import Callable
+
+import gradio as gr
 
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
+
 
 def build_ui(pipeline_fn: Callable[[str], str]) -> gr.Interface:
     """
@@ -15,6 +17,7 @@ def build_ui(pipeline_fn: Callable[[str], str]) -> gr.Interface:
     Returns:
         gr.Interface: Configured Gradio interface.
     """
+
     def answer_fn(question: str) -> str:
         """
         Wrapper for calling the RAG pipeline with error handling.
@@ -41,5 +44,5 @@ def build_ui(pipeline_fn: Callable[[str], str]) -> gr.Interface:
         inputs="text",
         outputs="text",
         title="Simple RAG Demo",
-        description="Ask a question based on Datatonic's knowledge base"
+        description="Ask a question based on Datatonic's knowledge base",
     )

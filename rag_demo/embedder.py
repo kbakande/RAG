@@ -1,7 +1,7 @@
-import os
-import json
 import hashlib
+import json
 import logging
+import os
 from typing import List, Optional, Tuple
 
 import faiss
@@ -10,6 +10,7 @@ from sentence_transformers import SentenceTransformer
 
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
+
 
 class Embedder:
     """
@@ -21,7 +22,7 @@ class Embedder:
         index_path: str = "embeddings.index",
         docs_path: str = "docs.json",
         hash_path: str = "docs.hash",
-        doc_dir: str = "docs"
+        doc_dir: str = "docs",
     ) -> None:
         """
         Initialize the Embedder with paths and model setup.

@@ -1,13 +1,16 @@
 import logging
+
 import numpy as np
+
 from rag_demo.data_loader import load_documents
 from rag_demo.embedder import Embedder
-from rag_demo.retriever import Retriever
 from rag_demo.generator import Generator
 from rag_demo.interface import build_ui
+from rag_demo.retriever import Retriever
 
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
+
 
 def main() -> None:
     """
@@ -47,7 +50,9 @@ def main() -> None:
             query_embedding = embedder.encode([question])
             context_chunks = retriever.retrieve(query_embedding)
 
-            logger.info(f"Retrieved {len(context_chunks)} chunks for query: '{question}'")
+            logger.info(
+                f"Retrieved {len(context_chunks)} chunks for query: '{question}'"
+            )
             context = " ".join(context_chunks)
             return generator.generate(context, question)
 
@@ -56,6 +61,7 @@ def main() -> None:
 
     except Exception as e:
         logger.error("Fatal error during app execution.", exc_info=True)
+
 
 if __name__ == "__main__":
     main()

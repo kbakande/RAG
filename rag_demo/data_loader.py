@@ -1,9 +1,10 @@
-import os
 import logging
+import os
 from typing import List
 
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
+
 
 def split_text(text: str, chunk_size: int = 300, overlap: int = 50) -> List[str]:
     """
@@ -28,7 +29,10 @@ def split_text(text: str, chunk_size: int = 300, overlap: int = 50) -> List[str]
     logger.info(f"Split text into {len(chunks)} chunks.")
     return chunks
 
-def load_documents(doc_dir: str = "docs", chunk_size: int = 80, overlap: int = 20) -> List[str]:
+
+def load_documents(
+    doc_dir: str = "docs", chunk_size: int = 80, overlap: int = 20
+) -> List[str]:
     """
     Load and chunk all text documents in the specified directory.
 
@@ -49,7 +53,9 @@ def load_documents(doc_dir: str = "docs", chunk_size: int = 80, overlap: int = 2
                     content = f.read()
                     chunks = split_text(content, chunk_size=chunk_size, overlap=overlap)
                     chunked_docs.extend(chunks)
-        logger.info(f"Loaded and chunked {len(chunked_docs)} total segments from '{doc_dir}'.")
+        logger.info(
+            f"Loaded and chunked {len(chunked_docs)} total segments from '{doc_dir}'."
+        )
     except Exception as e:
         logger.error(f"Failed to load documents from {doc_dir}: {e}", exc_info=True)
         raise
