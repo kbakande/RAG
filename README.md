@@ -42,7 +42,6 @@ Make sure you have internet to download Hugging Face models the first time.
 - "what does Datatonic do?"
 - "How long ago was Datatonic founded?"
 
-
 ---
 
 ## 🧠 Dataset
