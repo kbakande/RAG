@@ -25,5 +25,5 @@ class Generator:
         Answer:
         """.strip()
 
-        result = self.generator(prompt, max_new_tokens=150)
+        result = self.generator(prompt, max_new_tokens=80)
         return result[0]['generated_text']
