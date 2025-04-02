@@ -9,21 +9,21 @@ class Generator:
         context = context[:self.max_context_chars]
 
         prompt = f"""
-You are a helpful assistant that answers user questions **only** using the context below.
+        You are a helpful assistant that answers user questions **only** using the context below.
 
-Instructions:
-- Give a concise, well-written summary if the context contains relevant info.
-- Do NOT copy text verbatim; synthesize and rewrite clearly.
-- If the answer is not in the context, reply with: "I don’t know based on the provided information."
+        Instructions:
+        - Give a **clear, concise** summary based on the context.
+        - **Do not repeat facts** or phrases — only mention each idea once.
+        - If the context does not contain the answer, respond with: "I don’t know based on the provided information."
 
-Context:
-{context}
+        Context:
+        {context}
 
-Question:
-{question}
+        Question:
+        {question}
 
-Answer:
-""".strip()
+        Answer:
+        """.strip()
 
         result = self.generator(prompt, max_new_tokens=150)
         return result[0]['generated_text']

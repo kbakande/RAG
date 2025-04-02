@@ -38,6 +38,9 @@ Make sure you have internet to download Hugging Face models the first time.
 - "Tell me about Datatonic?"
 - "Who are the Datatonic officers?"
 - "Where are Datatonic offices?"
+- "Who founded Datatonic?"
+- "what does Datatonic do?"
+- "How long ago was Datatonic founded?"
 
 ---
 
