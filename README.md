@@ -35,12 +35,15 @@ Make sure you have internet to download Hugging Face models the first time.
 
 ## 🧪 Try Asking:
 
-- "Tell me about Datatonic?"
-- "Who are the Datatonic officers?"
-- "Where are Datatonic offices?"
-- "Who founded Datatonic?"
-- "what does Datatonic do?"
-- "How long ago was Datatonic founded?"
+- "Who founded OVO Energy and when did it start operating?"
+
+- "What are some of the renewable energy initiatives OVO Energy is involved in?"
+
+- "What acquisitions has OVO Energy made over the years?"
+
+- "What is Plan Zero and what are its goals?"
+
+- "Has OVO Energy faced any regulatory action or customer service issues?"
 
 ---
 
