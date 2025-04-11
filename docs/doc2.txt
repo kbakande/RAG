@@ -1,46 +1,27 @@
-OVO Energy - Acquisitions, Sponsorships, Regulation & Leadership
-Acquisitions & Investments
+OVO Energy: Sustainability, Innovation, and Products
+Plan Zero Strategy
+Plan Zero is OVO Energy’s roadmap to achieve net-zero carbon emissions by 2035. It focuses on three pillars: Climate (reducing emissions), Customers (helping households cut carbon), and Culture (embedding sustainability across the business).
 
-Spark Energy (2018): Acquired after its collapse; included subsidiary Home Telecom.
+Carbon Reduction
+Since 2018, OVO has reduced its operational carbon emissions by over 50%. It limits carbon offsetting to no more than 10% of its total emissions.
 
-SSE Energy Services (2020): £500M acquisition included 5M customers, broadband, and heating insurance services.
+Renewable Electricity
+OVO sources electricity from the UK National Grid, which includes energy from wind, solar, gas, and nuclear. In 2023, OVO shifted from 100% renewable tariffs backed solely by REGOs to power purchase agreements (PPAs) for better traceability.
 
-Bonnet (2023): Public EV charging app with access to 27,000+ chargers at 7,000+ locations.
+OVO Solar
+In 2023, OVO launched a solar offering for homes. It includes solar panels, batteries, inverters, and a Smart Export Guarantee (SEG) rate, allowing customers to sell excess electricity back to the grid.
 
-Mitsubishi Corporation (2019): Acquired a 20% stake in OVO, valuing the company at £1B.
+Power Move Program
+Power Move is an energy usage challenge that rewards customers for shifting their electricity usage away from peak hours (4pm–7pm on weekdays). It helps balance grid demand and reduce carbon intensity.
 
-Energy Market Competition
+Heat Pump Plus
+OVO offers Heat Pump Plus in partnership with Heat Geek. It provides heat pump installations and a competitive electricity rate of 15p/kWh, making it a viable alternative to gas boilers.
 
-OVO's 2009 market entry increased competition in a previously Big Six-dominated market.
+Electric Vehicle Charging
+Charge Anytime is OVO’s smart EV charging solution. It enables customers to charge their electric vehicles at home during off-peak hours at reduced rates.
 
-In 2013, Stephen Fitzpatrick testified that wholesale gas prices had fallen, contradicting Big Six pricing claims.
+Customer Experience: OVO Beyond
+OVO Beyond is a customer-facing mobile app that delivers personalized energy-saving tips, usage analytics, and exclusive offers to OVO members.
 
-Took on 235,000 customers from collapsed Economy Energy in 2019.
-
-Sponsorships
-
-Sponsored Tour of Britain and The Women's Tour cycling events (2016–2021).
-
-Sponsored Glasgow’s indoor arena, now the OVO Hydro, starting October 2021.
-
-Benefits: ticket presales, VIP lounges, fast-track entry (via OVO Live).
-
-Leadership
-
-Stacey Cartwright (Chair, 2020): Also involved with Savills, Genpact, FA, and ex-Harvey Nichols.
-
-Jonson Cox: Non-exec director, also Chair of Ofwat.
-
-Regulatory Issues & Fines
-
-Jan 2020: £8.9M paid to Ofgem redress fund (over/undercharging and inaccurate statements for 2015–2018).
-
-Mar 2021: Paid £2.8M redress due to pricing protection failures (impacting 240,000+ customers).
-
-2022: Multiple overcharging reports surfaced.
-
-May 2023: Overcharged 11,000 customers under Energy Price Guarantee, refunded avg. £181 per customer + £10,000 to Ofgem.
-
-2022: Ranked second-worst for customer service by Citizens Advice.
-
-2024: Public warning issued by Martin Lewis after credit refund delays.
+CORGI HomePlan
+Acquired in 2017, CORGI HomePlan is part of the OVO group and provides boiler servicing and emergency home repairs to over 165,000 customers.
