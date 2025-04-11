@@ -44,5 +44,5 @@ def build_ui(pipeline_fn: Callable[[str], str]) -> gr.Interface:
         inputs="text",
         outputs="text",
         title="Simple RAG Demo",
-        description="Ask a question based on Datatonic's knowledge base",
+        description="Ask a question based on OVO's knowledge base",
     )
