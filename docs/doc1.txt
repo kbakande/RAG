@@ -1,96 +1,65 @@
-Overview
-Datatonic is a leading cloud data and artificial intelligence (AI) consultancy that empowers businesses to solve complex challenges through cutting-edge cloud technologies. Founded in 2013 and headquartered in London, United Kingdom, Datatonic has expanded its presence across Europe and North America. The company specializes in leveraging data and AI to drive business impact for ambitious organizations worldwide.
+OVO Energy - Company Overview, Operations & Sustainability
+Company Overview
 
-Mission and Values
-Datatonic is committed to:
+OVO Energy is a major energy supplier based in Bristol, England.
 
-Fearless Innovation: Encouraging curiosity and challenging the status quo to find new ways to work and contribute.
+Founded by Stephen Fitzpatrick, it began trading energy in September 2009.
 
-Power of Us: Valuing diversity and fostering an inclusive environment where differences strengthen the team.
+By June 2017, OVO had 680,000 customers (2.5% domestic market share).
 
-Continuous Learning: Promoting a culture of ongoing development and knowledge sharing to stay at the forefront of data and AI advancements.
+In January 2020, it became one of the UK's “Big Six” energy suppliers after acquiring SSE's retail arm.
 
-Services
-Datatonic offers a range of services tailored to harness the power of data and AI:
+Operations & Market Position
 
-Generative AI: Developing AI agents and assistants for various applications, including retail, gaming, media search and discovery, and creative assistance.
+Supplies gas and electricity to domestic customers in the UK.
 
-Cloud Data Migration: Assisting businesses in migrating their data infrastructure to the cloud for enhanced scalability and performance.
+Initially a challenger to the Big Six, it became the third-largest domestic energy supplier post-2020.
 
-Managed Services: Providing ongoing support and optimization for cloud data and AI solutions.
+OVO's "pay as you go" product has been branded as Boost since 2017 (approx. 350,000 customers as of 2019).
 
-Marketing Analytics: Leveraging data to drive targeted marketing strategies and improve customer engagement.
+Energy and Renewables
 
-Looker: Implementing and optimizing Looker for advanced business intelligence and data visualization.
+OVO aims to decarbonize UK homes with renewable energy.
 
-Industries Served
-Datatonic collaborates with leading companies across various industries:
+Partners include Orsted (2021), Ambition Community Energy, Genatec, St Fergus Energy Park, and Atrato Onsite Energy plc (2023).
 
-Retail: Enhancing customer experiences and optimizing operations through data-driven insights.
+Sustainability Initiatives
 
-Telecommunications: Improving network performance and customer satisfaction using AI solutions.
+Plan Zero is OVO’s roadmap to net zero by 2035.
 
-Gaming: Creating immersive gaming experiences with generative AI technologies.
+Focus areas: Climate, Customers, and Culture.
 
-Media: Revolutionizing content discovery and recommendation systems.
+Since 2018, OVO has cut operational emissions by over 50%.
 
-Financial Services: Implementing fraud detection systems and enhancing financial analytics.
+Carbon offsetting is limited to 10% of total emissions.
 
-Notable Projects
-Datatonic has a proven track record of delivering impactful projects:
+Electricity Supply
 
-MuchBetter: Enabled real-time analytics at scale for the payments app, utilizing Google Cloud's Datastream to personalize customer experiences and enhance decision-making.
+Comes from the National Grid (mix of wind, solar, gas, nuclear).
 
-Gopuff: Migrated data from Redshift to Snowflake, reducing dashboard load times from 30 minutes to seconds and creating a single source of truth for better decision-making.
+In 2023, OVO ended REGOs-backed tariffs, now offers 100% renewable electricity via Power Purchase Agreements (PPA) add-on.
 
-Global Payments Provider: Developed a real-time fraud detection model with over 90% accuracy, representing approximately $100 million in fraudulent transactions prevented per year.
+Gas Supply
 
-UK Energy Provider: Implemented Google Cloud's Data Loss Prevention service to securely unlock generative AI use cases while protecting personally identifiable information (PII).
+Sourced from the national grid (primarily North Sea, Norway, Europe, and LNG imports).
 
-Leadership Team
-Louis Decuypere: Chief Executive Officer (CEO)
+Solar Products
 
-Andrew Harding: Chief Technology Officer (CTO)
+Launched OVO Solar in 2023: solar PV panels, batteries, inverters, and Smart Export Guarantee (SEG) rates.
 
-David Langley: Chief Financial Officer (CFO)
+Products & Services
 
-David Kress: Chief Revenue Officer (CRO)
+Power Move: Incentivizes customers to reduce electricity usage during peak hours (4–7 PM weekdays).
 
-Amber Cella: Datatonic Academy Co-Founder
+Heat Pumps: Partnered with Heat Geek to offer “Heat Pump Plus” – 15p/kWh rate.
 
-Lennert Acke: Managing Director, Europe
+Corgi HomePlan: Acquired in 2017, offers boiler and home emergency services (165,000+ customers).
 
-Andrew Powell: Managing Director, UKI
+OVO Beyond: App offering energy tips, insights, and exclusive offers.
 
-Cyril Marques: Managing Director, AMER
+Charge Anytime: Smart EV charging at cheaper, off-peak rates.
 
-Lisa Luu: Global Director of Go-To-Market (GTM)
+Charity
 
-Rachel Wasser: Global People Director
+OVO Foundation (est. 2014): Focuses on climate action and education in UK schools and global communities.
 
-Offices
-Datatonic maintains offices in several key locations:
-
-London, United Kingdom: Level 45, One Canada Square, London E14 5AB
-
-Stockholm, Sweden: Malmskillnadsgatan 36, 111 57 Stockholm
-
-Nyon, Switzerland: Route de Crassier 7, 1262 Eysins
-
-Barcelona, Spain: Pla de la Seu, s/n, 08002 Barcelona
-
-Montreal, Canada
-
-Partnerships and Recognitions
-Google Cloud Partnership: Datatonic is a nine-time Google Cloud Partner of the Year, specializing in unlocking the value of data for enterprise businesses across the UK and Europe.
-
-Looker and dbt Labs: Recognized as a go-to partner in EMEA for leading technologies, including Looker and dbt Labs.
-
-Datatonic Academy
-Datatonic offers customized training programs through the Datatonic Academy, designed to build foundational knowledge for junior hires and graduates, as well as advanced courses to upskill existing team members. Courses can be tailored to include hands-on work with live projects or case studies to maximize value.
-
-Commitment to Diversity and Inclusion
-Datatonic emphasizes the importance of diversity and inclusion, recognizing that the strength and success of the company lie in the unique perspectives, backgrounds, and experiences of its diverse team. The company is dedicated to cultivating an inclusive workplace where everyone feels valued and appreciated for their authentic selves.
-
-Greentonic Initiative
-Greentonic is Datatonic's initiative for sustainability and climate tech innovation. The company acknowledges that solutions to combat climate change are driven by large-scale technological innovation, which relies heavily on cloud, data analytics, and AI/ML.
